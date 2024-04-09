@@ -14,7 +14,7 @@ const Expense = ({ expenseType, state, onChange }: Props) => {
       <p>Cost: {state}</p>
       <label>
         <input onChange={onChange}/>
-        <p className="text-left tester tese me erewer">{expenseType}</p>
+        <p className="text-left">{expenseType}</p>
       </label>
     </div>
   );
