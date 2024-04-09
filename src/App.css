@@ -1,0 +1,11 @@
+.test{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: darkcyan;
+    height: 200px;
+}
+.tester{
+    text-align: center;
+}
